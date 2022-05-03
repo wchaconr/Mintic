@@ -1,0 +1,2 @@
+# Mintic
+Labs and challenges
